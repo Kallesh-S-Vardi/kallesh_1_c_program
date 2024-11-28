@@ -18,7 +18,7 @@ int main() {
     }
 }
   for(int i=0;i<rows;i++){
-    int j=0;j<cols;j++){
+  for(int j=0;j<cols;j++){
     sum[i][j]=a[i][j]+b[i][j];
       
     }
